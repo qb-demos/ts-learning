@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("%c num: ","background-color: pink",123)})();
